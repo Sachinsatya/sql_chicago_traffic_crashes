@@ -1,13 +1,13 @@
 # Chicago Traffic Crashes 2018-2022
 ## Questions and Answers
 
-**Author**: Jaime M. Shaker
+**Author**: Sachin MM
 
-**Email**: jaime.m.shaker@gmail.com
+**Email**: sachinds360@gmail.com
 
-**Website**: https://www.shaker.dev
+**Website**: https://www.sachinpfl.xyz
 
-**LinkedIn**: https://www.linkedin.com/in/jaime-shaker/
+**LinkedIn**: https://www.linkedin.com/in/sachin-m-6a6a9a171/
 
 An SQL analysis about each traffic crash on city streets within the City of Chicago limits and under the jurisdiction of Chicago Police Department (CPD). Data shown as is from the electronic crash reporting system (E-Crash) at CPD, excluding any personally identifiable information.
 
